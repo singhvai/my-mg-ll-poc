@@ -1,2 +1,6 @@
+.vscode/
 tsconfig.json
-tslint.json
+node_modules
+package.json
+package-lock.json
+src/

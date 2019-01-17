@@ -1,2 +1,1 @@
-# my-nmg-ls-poc
-# My Awesome Greeter
+# MY-MG-LL-POC-SoundLib

@@ -1,1 +1,4 @@
-export const Greeter = (name: string) => `Hello ${name} !!!!!, from Vaibhav`;
+
+export * from "./scene";
+export * from "./local";
+
